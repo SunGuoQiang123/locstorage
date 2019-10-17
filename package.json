@@ -2,7 +2,7 @@
   "name": "loc-storage",
   "description": "A new Project...",
   "main": "lib/index.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "build": "rollup -c build/rollup.config.js"
   },
